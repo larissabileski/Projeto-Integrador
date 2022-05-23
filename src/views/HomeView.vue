@@ -19,7 +19,7 @@
         <div class="card-body">
           <h5 class="card-title">São paulo</h5>
           <p class="card-text">
-            3 dias em São Paulo, com passagem de ida e volta, estádia em a 300
+            3 dias em São Paulo, com passagem de ida e volta, estadia em a 300
             metros do Ibirapuera, almoço e guia turistico inclusos.
             <br />
             <b>Por apenas: R$599,99</b>
@@ -37,7 +37,7 @@
         <div class="card-body">
           <h5 class="card-title">Rio de janeiro</h5>
           <p class="card-text">
-            5 dias no Rio de Janeiro, com passagem de ida e volta, estádia em
+            5 dias no Rio de Janeiro, com passagem de ida e volta, estadia em
             pousada a 800 metros do centro, almoço e guia turistico inclusos.
             <br />
             <b>Por apenas: R$1250,99</b>
@@ -55,7 +55,7 @@
         <div class="card-body">
           <h5 class="card-title">Fernando de Noronha</h5>
           <p class="card-text">
-            3 dias em Fernando de Noronha, com passagem de ida e volta, estádia
+            3 dias em Fernando de Noronha, com passagem de ida e volta, estadia
             em em pousada de frente pro mar, almoço e guia turistico inclusos.
             <br />
             <b>Por apenas: R$1899,99</b>
@@ -81,7 +81,7 @@
           <div class="card-body">
             <h5 class="card-title">Disney World(EUA)</h5>
             <p class="card-text">
-              6 dias em Orlando, com passagem de ida e volta, estádia em hotel a
+              6 dias em Orlando, com passagem de ida e volta, estadia em hotel a
               300 metros do parque, almoço e guia turistico inclusos.
               <br />
               <b>Por apenas: R$2899,99</b>
@@ -99,7 +99,7 @@
           <div class="card-body">
             <h5 class="card-title">Paris(França)</h5>
             <p class="card-text">
-              4 dias na cidade da luz, com passagem de ida e volta, estádia em
+              4 dias na cidade da luz, com passagem de ida e volta, estadia em
               pousada a 800 metros da Torre Eiffel, almoço e guia turistico
               inclusos.
               <br />
@@ -119,7 +119,7 @@
             <h5 class="card-title">Kyoto(Japão)</h5>
             <p class="card-text">
               4 dias na Cidade dos samurais, com passagem de ida e volta,
-              estádia em em pousada a 600 metros do centro, almoço e guia
+              estadia em em pousada a 600 metros do centro, almoço e guia
               turistico inclusos.
               <br />
               <b>Por apenas: R$4899,99</b>
