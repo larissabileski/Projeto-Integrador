@@ -66,7 +66,7 @@
     </div>
 
     <div class="Popu2">
-      <h3>Viagens ao mundo:</h3>
+      <h3>Viagens internacionais:</h3>
     </div>
 
     <div class="exterior">
