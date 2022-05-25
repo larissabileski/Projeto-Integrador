@@ -1,6 +1,6 @@
 <template>
   <div class="titulosec">
-    <h1>Desculpe ainda estamos trabalhando nessa página.</h1>
+    <h1>Desculpe ainda estamos trabalhando nessa página!</h1>
   </div>
 </template>
 
