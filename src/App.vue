@@ -6,19 +6,20 @@ export default { components: RouterView, RouterLink };
 <template>
   <header>
     <div class="container">
-  <div class="row row-cols-auto">
+      <div class="row row-cols-auto">
         <div class="titulo">
-      <h1>Belos Destinos</h1>
+          <h1>Belos Destinos</h1>
+        </div>
+        <div class="home">
+          <router-link to="/" style="color: black">Inicio</router-link>
+        </div>
+        <div class="sobre">
+          <router-link to="/about" style="color: black"
+            >Outras opções</router-link
+          >
+        </div>
+      </div>
     </div>
-   <div class="home">
-      <router-link to="/" style="color:black">Inicio</router-link>
-    </div>
-   <div class="sobre">
-      <router-link to="/about" style="color:black">Outras opções</router-link>
-    </div>
-  </div>
-</div>
-    
   </header>
   <main><RouterView /></main>
   <footer>Entre em contato com belosdestinos@gmail.com</footer>
@@ -37,7 +38,7 @@ main {
   height: 250vh;
   background: #f2e5ca;
 }
-footer{
+footer {
   background: #f2e5ca;
   text-align: center;
   padding-bottom: 20px;
@@ -47,7 +48,6 @@ footer{
   text-align: left;
   padding-left: 5px;
   padding-top: 30px;
-
 }
 .home {
   float: left;
